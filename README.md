@@ -67,7 +67,7 @@ display the error that made it crash.
 
 ## Will this catch errors for me?
 No. This is only a UI component for rendering errors and their stack
-traces. It is intended to be used with with other existing solutions
+traces. It is intended to be used with other existing solutions
 that automate the error catching for you. See the list at the top of
 this document or take a look at the [examples].
 
